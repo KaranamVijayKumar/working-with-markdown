@@ -90,6 +90,6 @@ dcase@nwmissouri.edu
 
 ## New Section
 * This is Vijay inserting a new image
-![Hosted image](https://commons.wikimedia.org/wiki/File:Bee_on_Yellow_Flower.jpg "yellow flower")
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
 
