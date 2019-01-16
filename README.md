@@ -89,4 +89,4 @@ Denise Case
 dcase@nwmissouri.edu
 
 ## New Section
-* This is Vijay *
+* This is Vijay */
