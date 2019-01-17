@@ -88,8 +88,16 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## New Section to update 
+## New Section to update Image from web
 * This is Vijay inserting a new image
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
+
+## Displaying Local Image
+![Image](my-desktop.jpg "image from my local system")
+
+## About
+Vijay Kumar Karanam
+
+s534627@nwmissouri.edu
 
 
