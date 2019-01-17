@@ -88,11 +88,11 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
 ## Displaying Local Image
-![Image](/blob/my-desktop.jpg "image from my local system")
+![Image](working-with-markdown/mydesktop.PNG "image from my local system")
 
 ## About
 Vijay Kumar Karanam
 
-(S534627@nwmissouri.edu)
+S534627@nwmissouri.edu
 
 
