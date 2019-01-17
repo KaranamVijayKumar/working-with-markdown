@@ -98,6 +98,6 @@ dcase@nwmissouri.edu
 ## About
 Vijay Kumar Karanam
 
-[S534627@nwmissouri.edu]
+S534627@nwmissouri.edu
 
 
