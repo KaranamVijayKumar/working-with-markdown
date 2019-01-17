@@ -88,7 +88,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
 ## Displaying Local Image
-![Image](working-with-markdown/mydesktop.PNG "image from my local system")
+![mydesktop image](https://github.com/KaranamVijayKumar/working-with-markdown/raw/master/mydesktop.PNG "local image")
 
 ## About
 Vijay Kumar Karanam
