@@ -84,7 +84,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 
 ## New Section to update Image from web
-* This is Vijay inserting a new image
+* This is Vijay inserting a new image from web
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
 ## Displaying Local Image
@@ -93,6 +93,6 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ## About
 Vijay Kumar Karanam
 
-S534627@nwmissouri.edu
+(S534627@nwmissouri.edu)
 
 
