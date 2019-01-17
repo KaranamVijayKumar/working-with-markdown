@@ -83,12 +83,13 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
 
-## New Section to update Image from web
--This is Vijay inserting a new image from web
+## Inserting Images
+### Displaying Web Image
+
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
-## Displaying Local Image
--This is Vijay inserting a new image from local system
+### Displaying Local Image
+
 ![mydesktop image](https://github.com/KaranamVijayKumar/working-with-markdown/raw/master/mydesktop.PNG "local image")
 
 ## About
