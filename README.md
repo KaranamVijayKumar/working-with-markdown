@@ -84,10 +84,11 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 
 ## New Section to update Image from web
-* This is Vijay inserting a new image from web
+-This is Vijay inserting a new image from web
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
 ## Displaying Local Image
+-This is Vijay inserting a new image from local system
 ![mydesktop image](https://github.com/KaranamVijayKumar/working-with-markdown/raw/master/mydesktop.PNG "local image")
 
 ## About
