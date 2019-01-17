@@ -88,7 +88,7 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## New Section
+## New Section to update 
 * This is Vijay inserting a new image
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bee_on_Yellow_Flower.jpg)
 
