@@ -82,11 +82,6 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
-##  About
-
-Denise Case
-
-dcase@nwmissouri.edu
 
 ## New Section to update Image from web
 * This is Vijay inserting a new image
